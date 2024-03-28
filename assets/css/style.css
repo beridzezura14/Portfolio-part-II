@@ -82,11 +82,12 @@ header{
 .hero-text{
     max-width: 90%;
     margin: auto; 
-    height: 65vh;
+    margin-top: 20%;
+    /* height: 65vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    align-items: flex-start; */
 }
 .about{
     display: inline;
